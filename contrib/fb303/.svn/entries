@@ -1,7 +1,7 @@
 10
 
 dir
-1039064
+1039194
 http://svn.apache.org/repos/asf/thrift/trunk/contrib/fb303
 http://svn.apache.org/repos/asf
 
@@ -27,6 +27,9 @@ roger
 13f79535-47bb-0310-9956-ffa450edef68
 
 java
+dir
+
+cpp
 dir
 
 LICENSE
@@ -62,9 +65,6 @@ dreiss
 
 
 749
-
-cpp
-dir
 
 global_footer.mk
 file
@@ -174,10 +174,10 @@ dreiss
 
 1261
 
-if
+aclocal
 dir
 
-aclocal
+if
 dir
 
 TClientInfo.cpp

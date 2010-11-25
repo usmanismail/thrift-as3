@@ -1,7 +1,7 @@
 10
 
 dir
-1039064
+1039194
 http://svn.apache.org/repos/asf/thrift/trunk/lib/c_glib/src/transport
 http://svn.apache.org/repos/asf
 
@@ -128,40 +128,6 @@ roger
 
 2026
 
-thrift_transport_factory.c
-file
-
-
-
-
-2010-11-25T14:48:42.000000Z
-5957beebd7289a66a6728e3a35606c34
-2010-10-27T12:30:11.429362Z
-1027933
-roger
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1357
-
 thrift_server_socket.h
 file
 
@@ -195,6 +161,40 @@ roger
 
 
 2326
+
+thrift_transport_factory.c
+file
+
+
+
+
+2010-11-25T14:48:42.000000Z
+5957beebd7289a66a6728e3a35606c34
+2010-10-27T12:30:11.429362Z
+1027933
+roger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1357
 
 thrift_server_transport.h
 file
@@ -230,40 +230,6 @@ roger
 
 2547
 
-thrift_transport_factory.h
-file
-
-
-
-
-2010-11-25T14:48:42.000000Z
-8b1e7a8b0209ced3969eb51a06dcd249
-2010-10-27T12:30:11.429362Z
-1027933
-roger
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2226
-
 thrift_socket.c
 file
 
@@ -297,6 +263,40 @@ roger
 
 
 9334
+
+thrift_transport_factory.h
+file
+
+
+
+
+2010-11-25T14:48:42.000000Z
+8b1e7a8b0209ced3969eb51a06dcd249
+2010-10-27T12:30:11.429362Z
+1027933
+roger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2226
 
 thrift_transport.c
 file
@@ -400,40 +400,6 @@ roger
 
 14389
 
-thrift_transport.h
-file
-
-
-
-
-2010-11-25T14:48:42.000000Z
-f37b30023dc03034159a755fd84ab3c0
-2010-10-27T12:30:11.429362Z
-1027933
-roger
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4452
-
 thrift_memory_buffer.c
 file
 
@@ -467,6 +433,40 @@ roger
 
 
 7536
+
+thrift_transport.h
+file
+
+
+
+
+2010-11-25T14:48:42.000000Z
+f37b30023dc03034159a755fd84ab3c0
+2010-10-27T12:30:11.429362Z
+1027933
+roger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4452
 
 thrift_buffered_transport.h
 file

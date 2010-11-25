@@ -1,7 +1,7 @@
 10
 
 dir
-1039064
+1039194
 http://svn.apache.org/repos/asf/thrift/trunk
 http://svn.apache.org/repos/asf
 
@@ -131,40 +131,6 @@ has-props
 
 1250
 
-README
-file
-
-
-
-
-2010-11-25T14:48:46.000000Z
-27473ea82b88ef6f40219172c95b038e
-2010-11-04T12:20:05.138406Z
-1030901
-roger
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4058
-
 CONTRIBUTORS
 file
 
@@ -198,6 +164,40 @@ dreiss
 
 
 1885
+
+README
+file
+
+
+
+
+2010-11-25T14:48:46.000000Z
+27473ea82b88ef6f40219172c95b038e
+2010-11-04T12:20:05.138406Z
+1030901
+roger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4058
 
 aclocal
 dir
@@ -236,6 +236,9 @@ bryanduxbury
 
 380
 
+contrib
+dir
+
 cleanup.sh
 file
 
@@ -270,7 +273,7 @@ has-props
 
 2636
 
-contrib
+tutorial
 dir
 
 configure.ac
@@ -307,12 +310,6 @@ roger
 
 15625
 
-tutorial
-dir
-
-doc
-dir
-
 .gitignore
 file
 
@@ -346,6 +343,9 @@ roger
 
 
 3266
+
+doc
+dir
 
 lib
 dir

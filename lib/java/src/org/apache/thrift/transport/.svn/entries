@@ -1,7 +1,7 @@
 10
 
 dir
-1039064
+1039194
 http://svn.apache.org/repos/asf/thrift/trunk/lib/java/src/org/apache/thrift/transport
 http://svn.apache.org/repos/asf
 
@@ -25,74 +25,6 @@ bryanduxbury
 
 
 13f79535-47bb-0310-9956-ffa450edef68
-
-TFramedTransport.java
-file
-
-
-
-
-2010-11-25T14:48:42.000000Z
-d920e3f436edb91d7a963c072d5c0978
-2010-05-26T16:34:48.846952Z
-948492
-bryanduxbury
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4541
-
-TSeekableFile.java
-file
-
-
-
-
-2010-11-25T14:48:42.000000Z
-aab4ed307383548265cc91147e0f5c2c
-2010-10-27T23:26:52.048122Z
-1028136
-bryanduxbury
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1217
 
 TTransportException.java
 file
@@ -128,16 +60,16 @@ dreiss
 
 2006
 
-TNonblockingSocket.java
+TSeekableFile.java
 file
 
 
 
 
 2010-11-25T14:48:42.000000Z
-4751a5425dee5ab12a96cf0542d181e0
-2010-09-10T19:08:00.837669Z
-995939
+aab4ed307383548265cc91147e0f5c2c
+2010-10-27T23:26:52.048122Z
+1028136
 bryanduxbury
 
 
@@ -160,7 +92,41 @@ bryanduxbury
 
 
 
-6245
+1217
+
+TFramedTransport.java
+file
+
+
+
+
+2010-11-25T14:48:42.000000Z
+d920e3f436edb91d7a963c072d5c0978
+2010-05-26T16:34:48.846952Z
+948492
+bryanduxbury
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4541
 
 AutoExpandingBuffer.java
 file
@@ -196,16 +162,16 @@ bryanduxbury
 
 1903
 
-THttpClient.java
+TNonblockingSocket.java
 file
 
 
 
 
 2010-11-25T14:48:42.000000Z
-13aec0bc7a030b1e58fad80850f9915c
-2010-11-05T17:14:52.734383Z
-1031668
+4751a5425dee5ab12a96cf0542d181e0
+2010-09-10T19:08:00.837669Z
+995939
 bryanduxbury
 
 
@@ -228,7 +194,7 @@ bryanduxbury
 
 
 
-10355
+6245
 
 TSaslClientTransport.java
 file
@@ -264,16 +230,16 @@ bryanduxbury
 
 3737
 
-TFileProcessor.java
+THttpClient.java
 file
 
 
 
 
 2010-11-25T14:48:42.000000Z
-38c86ebad182415ebd0050b041c6f308
-2010-10-27T23:26:52.048122Z
-1028136
+13aec0bc7a030b1e58fad80850f9915c
+2010-11-05T17:14:52.734383Z
+1031668
 bryanduxbury
 
 
@@ -296,7 +262,41 @@ bryanduxbury
 
 
 
-4285
+10355
+
+TServerSocket.java
+file
+
+
+
+
+2010-11-25T14:48:42.000000Z
+b1d51e4bd706a989d0d262a102a94481
+2010-10-19T17:20:57.554263Z
+1024328
+bryanduxbury
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4079
 
 TSaslTransport.java
 file
@@ -332,16 +332,16 @@ bryanduxbury
 
 17132
 
-TServerSocket.java
+TFileProcessor.java
 file
 
 
 
 
 2010-11-25T14:48:42.000000Z
-b1d51e4bd706a989d0d262a102a94481
-2010-10-19T17:20:57.554263Z
-1024328
+38c86ebad182415ebd0050b041c6f308
+2010-10-27T23:26:52.048122Z
+1028136
 bryanduxbury
 
 
@@ -364,7 +364,7 @@ bryanduxbury
 
 
 
-4079
+4285
 
 TNonblockingTransport.java
 file
