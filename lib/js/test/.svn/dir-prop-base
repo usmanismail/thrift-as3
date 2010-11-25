@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 89
+build
+jstest.jar
+httpcore-4.0.1.jar
+httpcomponents-core-4.0.1-bin.tar.gz
+gen-js
+gen-java
+
+END

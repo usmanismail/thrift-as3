@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/asf/!svn/ver/1038844/thrift/trunk/lib/cpp
+END
+thrift-nb.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/cpp/thrift-nb.pc.in
+END
+thrift.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/cpp/thrift.pc.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1038844/thrift/trunk/lib/cpp/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/cpp/README
+END
+thrift-z.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/cpp/thrift-z.pc.in
+END

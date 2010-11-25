@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/1028168/thrift/trunk/test/perl
+END
+TestClient.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1028168/thrift/trunk/test/perl/TestClient.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1028168/thrift/trunk/test/perl/Makefile
+END

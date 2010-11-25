@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/1037500/thrift/trunk/test/cpp/src
+END
+TestClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1037500/thrift/trunk/test/cpp/src/TestClient.cpp
+END
+nb-main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1037500/thrift/trunk/test/cpp/src/nb-main.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1037500/thrift/trunk/test/cpp/src/main.cpp
+END
+TestServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1028168/thrift/trunk/test/cpp/src/TestServer.cpp
+END

@@ -1,0 +1,110 @@
+10
+
+dir
+1039064
+http://svn.apache.org/repos/asf/thrift/trunk/lib
+http://svn.apache.org/repos/asf
+
+
+
+2010-11-24T22:30:38.903425Z
+1038850
+bryanduxbury
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+c_glib
+dir
+
+csharp
+dir
+
+java
+dir
+
+erl
+dir
+
+cpp
+dir
+
+cocoa
+dir
+
+as3
+dir
+
+st
+dir
+
+php
+dir
+
+py
+dir
+
+ocaml
+dir
+
+perl
+dir
+
+rb
+dir
+
+javame
+dir
+
+Makefile.am
+file
+
+
+
+
+2010-11-25T14:48:45.000000Z
+a2bea67cb4ea39cac81f21b64a582a3f
+2010-10-27T12:30:11.429362Z
+1027933
+roger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1322
+
+hs
+dir
+
+js
+dir
+

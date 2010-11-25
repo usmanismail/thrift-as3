@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/java/src/org/apache/thrift/server
+END
+TSimpleServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/java/src/org/apache/thrift/server/TSimpleServer.java
+END
+TServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/java/src/org/apache/thrift/server/TServlet.java
+END
+TServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/java/src/org/apache/thrift/server/TServer.java
+END
+TThreadPoolServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/java/src/org/apache/thrift/server/TThreadPoolServer.java
+END
+THsHaServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/java/src/org/apache/thrift/server/THsHaServer.java
+END
+TNonblockingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1028168/thrift/trunk/lib/java/src/org/apache/thrift/server/TNonblockingServer.java
+END
